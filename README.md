@@ -32,7 +32,7 @@ Details
 
     you can set the number of crawling for one time and at the same time the url of images will be written into the database.  
 
-    after crawling, execute the additem.py to add the images into gallery2.  
+    after crawling, execute the addimages.py to add the images into gallery2.  
 
     if all goes well, you can browse your images already.  
 
