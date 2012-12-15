@@ -1,6 +1,7 @@
 Description
 =========
 personal web album
+
     crawl images from web(www.sina.com.cn for example)  
     
     store image urls into a database, url filtered by python bloomfilter  
@@ -9,27 +10,33 @@ personal web album
 
 Environment & Tools
 =========
-0. Ubuntu11.10
-1. Apache2
-2. MySQL5.0
-3. Scrapy
-4. Gallery2.0
+
+    0. Ubuntu11.10
+
+    1. Apache2
+
+    2. MySQL5.0
+
+    3. Scrapy
+
+    4. Gallery2.0
 
 Details
 ========
-install and configure apache2, mysql5.0, scrapy, gallery2.0.  
 
-modify the directory name of image storage.  
+    install and configure apache2, mysql5.0, scrapy, gallery2.0.  
 
-run the command 'scrapy crawl sina_image' in the crawl directory to start to crawl images.  
+    modify the directory name of image storage.  
 
-you can set the number of crawling for one time and at the same time the url of images will be written into the database.  
+    run the command 'scrapy crawl sina_image' in the crawl directory to start to crawl images.  
 
-after crawling, execute the additem.py to add the images into gallery2.  
+    you can set the number of crawling for one time and at the same time the url of images will be written into the database.  
 
-if all goes well, you can browse your images already.  
+    after crawling, execute the additem.py to add the images into gallery2.  
 
-of course, you can execute the above steps repeatedly to update your album.
+    if all goes well, you can browse your images already.  
+
+    of course, you can execute the above steps repeatedly to update your album.
 
 
 
