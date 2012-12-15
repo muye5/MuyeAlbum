@@ -4,9 +4,9 @@ personal web album
 
     crawl images from web(www.sina.com.cn for example)
 
-    store image urls into a database, url filtered by python bloomfilter
+    put image urls into a database, url filtered by python bloomfilter
 
-    add crawled images your web album
+    add images into your web album
 
 Environment & Tools
 =========
