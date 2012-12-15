@@ -1,5 +1,3 @@
-MuyeAlbum
-=========
 Description
 =========
 personal web album
