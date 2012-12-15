@@ -36,7 +36,7 @@ Details
 
     if all goes well, you can browse your images already.
 
-    of course, you can execute the above steps repeatedly to update your album.
+    of course, you can execute above steps repeatedly to update your album.
 
 
 
