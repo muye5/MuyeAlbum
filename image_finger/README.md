@@ -5,3 +5,12 @@
 //
 // the pHash is a powerful library for fingerprint extraction of image video and audio except its simple instructions.
 #########################################################################################
+original images are in directory of 'pics' and processed ones are stored in 'comp'
+
+process detail:
+
+1.jpg was made old.
+
+2.jpg was cut partly.
+
+3.jpg was rotated.
