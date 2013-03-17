@@ -8,6 +8,8 @@ personal web album
 
     add images into your web album
 
+    extract the fingerprint of images for future image search
+
 Environment & Tools
 =========
 
@@ -20,6 +22,10 @@ Environment & Tools
     3. Scrapy
 
     4. Gallery2.0(galleryremote needed for adding images through gallery API)
+
+    5. OpenCV
+
+    6. pHash Open Library
 
 Details
 ========
